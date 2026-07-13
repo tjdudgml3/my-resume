@@ -1,5 +1,7 @@
 # Personal Resume Website
 
+🔗 **Website URL:** [https://tjdudgml3.github.io/my-resume/](https://tjdudgml3.github.io/my-resume/)
+
 This is a personal resume website built with HTML, CSS, and JavaScript.
 
 ## Project Structure
