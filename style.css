@@ -715,6 +715,11 @@ img {
     color: #a78bfa;
 }
 
+.outcome-icon.accepted {
+    background: rgba(16, 185, 129, 0.2);
+    color: #34d399;
+}
+
 .outcome-icon.presentation {
     background: rgba(59, 130, 246, 0.15);
     color: #60a5fa;
@@ -750,6 +755,12 @@ img {
 .outcome-tag.review {
     background: rgba(139, 92, 246, 0.2);
     color: #c4b5fd;
+}
+
+.outcome-tag.accepted {
+    background: rgba(16, 185, 129, 0.25);
+    color: #6ee7b7;
+    font-weight: 800;
 }
 
 .outcome-tag.presentation {
