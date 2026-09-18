@@ -554,6 +554,13 @@ img {
     font-weight: 600;
 }
 
+.research-badge.author-badge {
+    background: linear-gradient(135deg, rgba(16, 185, 129, 0.25), rgba(59, 130, 246, 0.2));
+    border-color: #10b981;
+    color: #6ee7b7;
+    margin-left: 0.4rem;
+}
+
 .research-date {
     color: var(--text-muted);
     font-size: 0.95rem;
